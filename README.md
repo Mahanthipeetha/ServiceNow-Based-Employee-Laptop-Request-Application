@@ -1,12 +1,10 @@
 # ServiceNow-Based Employee Laptop Request Application
 
----
 
 ## About the Project
 
 The **ServiceNow-Based Employee Laptop Request Application** automates employee laptop requests, manager approvals, status updates, and email notifications using **ServiceNow**.
 
----
 
 ## Features
 
@@ -17,7 +15,6 @@ The **ServiceNow-Based Employee Laptop Request Application** automates employee 
 - Email notifications
 - Reduced manual intervention
 
----
 
 ## Technologies Used
 
@@ -39,7 +36,6 @@ The **ServiceNow-Based Employee Laptop Request Application** automates employee 
 
 - **ServiceNow Email Notifications**
 
----
 
 ## Project Workflow
 
@@ -55,7 +51,6 @@ The **ServiceNow-Based Employee Laptop Request Application** automates employee 
 ↓  
 **Email notification sent**
 
----
 
 ## Setup and Usage
 
@@ -67,7 +62,6 @@ The **ServiceNow-Based Employee Laptop Request Application** automates employee 
 6. Set up **email notifications**.
 7. Submit a laptop request through the application.
 
----
 
 ## Project Demo
 
@@ -75,7 +69,6 @@ A demonstration of the **ServiceNow-Based Employee Laptop Request Application** 
 
 ▶ **Demo Video:** Add your demo video link here
 
----
 
 ## Project Details
 
@@ -85,7 +78,6 @@ A demonstration of the **ServiceNow-Based Employee Laptop Request Application** 
 
 **Date:** 07 September 2026
 
----
 
 ## Author
 
@@ -97,8 +89,6 @@ Seshadri Rao Gudlavalleru Engineering College
 
 Graduation Year: **2027**
 
----
 
 This project was developed as an **academic project** to demonstrate **workflow automation and approval management using the ServiceNow platform**.
 
----
