@@ -67,7 +67,7 @@ The **ServiceNow-Based Employee Laptop Request Application** automates employee 
 
 A demonstration of the **ServiceNow-Based Employee Laptop Request Application** is available here:
 
-▶ **Demo Video:** Add your demo video link here
+▶ **Demo Video:** (https://drive.google.com/file/d/1N1qdfL1EQrhwMcZWKjZPMn6KlwJtbboO/view?usp=sharing)
 
 
 ## Project Details
